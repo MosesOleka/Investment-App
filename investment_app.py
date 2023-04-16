@@ -71,6 +71,6 @@ while Trials != 0:
 
   # Here Logs You Out Of The System           
           elif(choice == "4"):
-             pass
+             print("Thank you for banking with COHORT5 Investment. Goodbye!")
           else:
              print(">>> Wrong Selection.. Please! Select Correct Option From >>> THE CHOICE MENU. THANK YOU!!! <<<")
